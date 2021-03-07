@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "search.css",
+	"sources": [
+		"../../../scss/components/search.scss"
+	],
+	"sourcesContent": [
+		".input-group {\r\n    &__search {\r\n        width: 90%;\r\n        align-items: center;\r\n        .search-icon {\r\n            background: #ABC100;\r\n            padding: 0 .8rem;\r\n            border: none;\r\n        }\r\n    }\r\n    \r\n}\r\n.card {\r\n    border-radius: 0 !important;\r\n}\r\n\r\n.bg-pale {\r\n    background-color: #f8f8f8;\r\n}\r\n\r\n.list-group-item {\r\n    background-color: #f5f5f5ce !important;\r\n}\r\n\r\n.list-group-item-action:hover, .list-group-item-action:focus {\r\n    background-color: #ABC100 !important;\r\n    color: #fff !important;\r\n}\r\n\r\n// footer {\r\n//     bottom: 0;\r\n//     position: fixed;\r\n// }\r\n\r\nmain {\r\n    min-height: 800px;\r\n}\r\n\r\n// .list-group-item-action.active {\r\n//     border: 1px solid rgba(0,0,0,0.125) !important;\r\n//     border-width: 0 0 1px !important;\r\n//     background-color: $green !important;\r\n//     //color: black !important ;\r\n// }\r\n\r\nul.list-group-flush .nav-item{\r\n    border-width: 0 0 1px !important;\r\n}\r\n\r\n.btn-primary {\r\n    color: white !important;\r\n  }\r\n\r\n  .list-group-item-action {\r\n      a {\r\n          color: #495863 !important;\r\n          &:hover {\r\n              color: #fff !important;\r\n              text-decoration: none !important;\r\n          }\r\n      }\r\n  }"
+	],
+	"names": [],
+	"mappings": "AACK,AAAD,oBAAS,AAAC,CACN,KAAK,CAAE,GAAG,CACV,WAAW,CAAE,MAAM,CAMtB,AARA,AAGG,oBAHK,CAGL,YAAY,AAAC,CACT,UAAU,CAAE,OAAO,CACnB,OAAO,CAAE,OAAO,CAChB,MAAM,CAAE,IAAI,CACf,AAIT,AAAA,KAAK,AAAC,CACF,aAAa,CAAE,YAAY,CAC9B,AAED,AAAA,QAAQ,AAAC,CACL,gBAAgB,CAAE,OAAO,CAC5B,AAED,AAAA,gBAAgB,AAAC,CACb,gBAAgB,CAAE,oBAAoB,CACzC,AAED,AAAA,uBAAuB,AAAA,MAAM,CAAE,uBAAuB,AAAA,MAAM,AAAC,CACzD,gBAAgB,CAAE,kBAAkB,CACpC,KAAK,CAAE,eAAe,CACzB,AAOD,AAAA,IAAI,AAAC,CACD,UAAU,CAAE,KAAK,CACpB,AASD,AAAA,EAAE,AAAA,iBAAiB,CAAC,SAAS,AAAA,CACzB,YAAY,CAAE,kBAAkB,CACnC,AAED,AAAA,YAAY,AAAC,CACT,KAAK,CAAE,gBAAgB,CACxB,AAED,AACI,uBADmB,CACnB,CAAC,AAAC,CACE,KAAK,CAAE,kBAAkB,CAK5B,AAPL,AAGQ,uBAHe,CACnB,CAAC,AAEI,MAAM,AAAC,CACJ,KAAK,CAAE,eAAe,CACtB,eAAe,CAAE,eAAe,CACnC"
+}
